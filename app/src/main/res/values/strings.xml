@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Godovih_01_03</string>
+    <string-array name="apartment_types">
+        <item>1-комнатная</item>
+        <item>2-комнатная</item>
+        <item>3-комнатная</item>
+        <item>Студия</item>
+    </string-array>
+</resources>
